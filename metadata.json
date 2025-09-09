@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Cost Optimizer",
+  "description": "An interactive web application to visualize, analyze, and optimize cloud computing costs. It features an AI-powered dashboard with cost forecasting, service breakdowns, and actionable suggestions.",
+  "requestFramePermissions": []
+}
